@@ -1,12 +1,12 @@
-import React from "react";
-import "./style.css";
+import React from 'react';
+import './style.css';
 //import "./"
-import Button from "./Components/Buttoncomp";
+import Button from './Components/Buttoncomp';
 
 export default function App() {
   return (
     <div>
-      <Button  />
+      <Button disable />
     </div>
   );
 }
